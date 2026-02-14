@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Multi-Class Network Equilibrium With Speed Control"
+message: "If you use this code, please cite the associated paper."
+type: software
+authors:
+  - family-names: "Alisoltani"
+    given-names: "Negin"
+  - family-names: "Gasmi"
+    given-names: "Sarah"
+  - family-names: "Lin"
+    given-names: "Xiao"
+  - family-names: "Tavasszy"
+    given-names: "Lorant A."
+  - family-names: "Ameli"
+    given-names: "Mostafa"
+repository-code: "https://github.com/MostafaAMELI/multi-class-network-equilibrium-speed-control"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-02-14"
