@@ -1,6 +1,5 @@
 # Multi-Class Network Equilibrium With Speed Control (Python)
-
-Python-only reproducible repository for multi-class static traffic assignment under UE/BRUE with speed-control and emission-cost optimization.
+Multi-class static traffic assignment under UE/BRUE with speed-control and emission-cost optimization.
 
 ## Included use cases
 
